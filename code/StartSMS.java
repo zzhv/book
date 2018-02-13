@@ -2,10 +2,10 @@ import java.util.Scanner;
 
 public class StartSMS {
 	/**
-	 * 书店销售管理系统--最初开始
+	 * 书店销售管理系统--数组都放在这
 	 * 
-	 * @version 2018年2月1日 10:48:47
-	 * @author 朱恒
+	 * @version 0.1
+	 * @author zhuheng
 	 */
 
 	// 最初的起点

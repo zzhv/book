@@ -2,10 +2,10 @@ import java.util.Scanner;
 
 public class GiftManage {
 	/**
-	 * 书店销售管理系统--礼物管理
+	 * 书店销售管理系统--数组都放在这
 	 * 
-	 * @version 2018年2月1日 10:48:47
-	 * @author 朱恒
+	 * @version 0.1
+	 * @author zhuheng
 	 */
 
 	public static void giftManage(int userId[], int userAge[],

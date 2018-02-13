@@ -1,9 +1,9 @@
 public class Menu {
 	/**
-	 * 书店销售管理系统--菜单
+	 * 书店销售管理系统--数组都放在这
 	 * 
-	 * @version 2018年2月1日 10:48:47
-	 * @author 朱恒
+	 * @version 0.1
+	 * @author zhuheng
 	 */
 
 	static void menu1() {
@@ -57,15 +57,17 @@ public class Menu {
 				.println("***************************************************");
 		System.out.println("请选择功能：");
 	}
+
 	static void menu5() {
 		System.out.println("书店管理销售系统>积分兑换礼品");
-        System.out.println("*********************礼品清单***********************");
-        System.out.println("礼品编号\t礼品名称\t\t兑换所需积分");
-        System.out.println("1\t鼠标垫\t\t10分");
-        System.out.println("2\tusb小台灯\t100分");
-        System.out.println("3\tusb小电扇\t200分");
-        System.out.println("4\t运动背包\t\t1000分");
-        System.out.println("*******************************************************");
-        System.out.println("请输入会员号：");
+		System.out.println("*********************礼品清单***********************");
+		System.out.println("礼品编号\t礼品名称\t\t兑换所需积分");
+		System.out.println("1\t鼠标垫\t\t10分");
+		System.out.println("2\tusb小台灯\t100分");
+		System.out.println("3\tusb小电扇\t200分");
+		System.out.println("4\t运动背包\t\t1000分");
+		System.out
+				.println("*******************************************************");
+		System.out.println("请输入会员号：");
 	}
 }

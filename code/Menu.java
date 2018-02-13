@@ -1,6 +1,6 @@
 public class Menu {
 	/**
-	 * 书店销售管理系统--数组都放在这
+	 * 书店销售管理系统
 	 * 
 	 * @version 0.1
 	 * @author zhuheng
